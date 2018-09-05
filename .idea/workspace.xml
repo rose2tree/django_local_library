@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74c094a6-aabf-4b49-bcba-f40bb0ec68b6" name="Default Changelist" comment="" />
+    <list default="true" id="74c094a6-aabf-4b49-bcba-f40bb0ec68b6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/locallibrary/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/locallibrary/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime.txt" beforeDir="false" afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,13 +64,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="33" />
-          <entry key="py" value="45" />
+          <entry key="py" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="33" />
-          <entry key="Python" value="45" />
+          <entry key="Python" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -86,11 +89,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/locallibrary/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2765">
-              <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
+            <state relative-caret-position="304">
+              <caret line="46" column="49" selection-start-line="46" selection-start-column="49" selection-end-line="46" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -104,7 +107,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/locallibrary/wsgi.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="400">
@@ -181,10 +184,10 @@
         <option value="$PROJECT_DIR$/catalog/models.py" />
         <option value="$PROJECT_DIR$/catalog/tests/test_forms.py" />
         <option value="$PROJECT_DIR$/catalog/tests/test_views.py" />
-        <option value="$PROJECT_DIR$/locallibrary/settings.py" />
         <option value="$PROJECT_DIR$/locallibrary/prod_settings.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/locallibrary/wsgi.py" />
+        <option value="$PROJECT_DIR$/locallibrary/settings.py" />
       </list>
     </option>
   </component>
@@ -582,13 +585,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/locallibrary/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2765">
-          <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/locallibrary/prod_settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -610,6 +606,13 @@
           <folding>
             <element signature="e#228#237#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locallibrary/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="46" column="49" selection-start-line="46" selection-start-column="49" selection-end-line="46" selection-end-column="49" />
         </state>
       </provider>
     </entry>
